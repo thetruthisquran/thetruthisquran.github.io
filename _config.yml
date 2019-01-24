@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Quran Explained
+title: The Truth is Quran
 email: ""
-description: Quran is the final book from God. Islam is derived from this book only and no other book should override it. The Quran explains all the information in detail.
+description: Quran is the final book from God. Islam is derived from this book only and no other book must take a higher priority. The Quran explains all the information in detail.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetruthisquran
-github_username:  thetruthisquran
+#github_username:  "thetruthisquran"
 
 # Build settings
 markdown: kramdown

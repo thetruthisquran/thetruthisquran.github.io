@@ -4,16 +4,35 @@
 
 layout: page
 ---
-
+<h1 class="post-title" align="center">Quran Explained</h1>
 Answering the most critical questions from the Quran by studying and analysing it verse by verse.
 
-Surah 2, Verse 121. <span style="color:red;">Those to whom We have sent the Book study it as it should be studied: they are
-the ones that believe therein: those who reject faith therein, - the loss is their own.</span>
+Surah 2: Verse 121. <span style="color:red;">Those to whom We have sent the Book study it as it should be studied: They
+are the ones that believe therein: Those who reject faith therein,- the loss is
+their own.</span>
 
-<img src="/assets/images/quran-with-mosque.png" alt="Quran with mosque" width="450" height="350">
+![Quran with mosque](/assets/images/quran-with-mosque.png){:class="img-responsive" width="750" height="450"}
 
-Surah 2, Verse 256. <span style="color:red;">Let there be no compulsion in religion: Truth stands out clear from Error.</span>
+Surah 2: Verse 256. <span style="color:red;">Let there be no compulsion in religion: Truth stands out clear from Error.</span>
 
-Surah 10, Verse 99. <span style="color:red;">If it had been your Lord's Will, they would all have believed.</span>
+There is no compulsion in religion and it should not be forced upon.
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+Surah 10: Verse 32. <span style="color:red;">Such is Allah, your real Cherisher and Sustainer: apart from truth, what
+[remains] but error? How then are ye turned away?</span>
+
+There is absolute truth in the Quran and any other book to learn about God will lead you to the opposite path.
+
+Surah 10: Verse 99. <span style="color:red;">If it had been thy Lord's will, they would all have believed,</span>
+
+### Quran Facts
+- One book that has never been changed over time
+- No contradictions and no errors
+- Scientifically and historically accurate
+- The poetry is beautiful
+- Quran is the final book from God
+
+### Quran Articles
+- [The Quran has answers to all questions](quran-answers-all-questions)
+- [How to perform wudu according to the Quran](how-to-perform-wudu)
+- [Animals mentioned in the Quran](animals-in-the-quran)
+- [Why sects are forbidden in Islam](sects-are-forbidden-in-islam)
