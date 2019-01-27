@@ -13,7 +13,7 @@ May you be guided and may you understand the Quran. The more you read, the bette
 
 You can send in the query/issue and I will be glad to answer it. We are all here to learn.
 
-Here is the link to form you can use.
+Here is the link to form you can use. [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSdw2FuudGMyWGuZLFs26l7rxbGyTxC8GRljylGNN8QkihV9BQ/viewform?usp=sf_link)
 
 <strong>3) Why did you start this website?</strong>
 
@@ -24,4 +24,4 @@ Every Classical Arabic word has a English word to it depending on the context. O
 Every English can mean something different. This can be from a meaing in those years. And a different meaning in the 21st century.
 Example: Slavery back then and slavery that we tend to think of is completely different.  
 
-This is my interpretation and believe it on your own will. 
+This is my interpretation and believe it on your own will.
