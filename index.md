@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+description: Quran is the final book from God. Islam is derived from this book only and no other book must take a higher priority. The Quran explains all the information in detail.
 ---
 <h1 class="post-title" align="center">Quran Explained</h1>
 Answering the most critical questions from the Quran by studying and analysing it verse by verse.
@@ -36,3 +37,6 @@ Surah 10: Verse 99. <span style="color:red;">If it had been thy Lord's will, the
 - [How to perform wudu according to the Quran](how-to-perform-wudu)
 - [Animals mentioned in the Quran](animals-in-the-quran)
 - [Why sects are forbidden in Islam](sects-are-forbidden-in-islam)
+- [What the Quran says about marriage](marriage-in-quran)
+- [What adultery means?](adultery)
+- [What does the Quran say about debt?](debt)

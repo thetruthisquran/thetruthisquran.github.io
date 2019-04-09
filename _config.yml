@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: The Truth is Quran
 email: ""
-description: Quran is the final book from God. Islam is derived from this book only and no other book must take a higher priority. The Quran explains all the information in detail.
+description: Quran explained in detail
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetruthisquran
 #github_username:  "thetruthisquran"
+google_analytics: UA-133860614-1
 
 # Build settings
 markdown: kramdown
@@ -27,6 +28,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+twitter:
+  username: thetruthisquran
+  card: summary
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
