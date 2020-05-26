@@ -1,0 +1,67 @@
+---
+layout: page
+title: Quran Ayah App
+permalink: /quran-ayah-app/
+description: Sends random verses from the click of a button.
+exclude: true
+---
+
+<html>
+<head>
+</head>
+<body>
+
+    <h1 id="surah_name"></h1>
+    <h2 id="chapter_ayah"></h2>
+    <h1 id="surah_arabic"></h1>
+    <h1 id="surah_meaning"></h1>
+  <hr>
+  <br>
+    <button id="press" class="button">Press me</button>
+
+    <audio id="surah" src="http://www.everyayah.org/data/Abdurrahmaan_As-Sudais_64kbps/001001.mp3" controls="controls">
+
+    <script>
+
+const pressButton = document.querySelector("#press");
+
+function press() {
+    getCSV(function(contents){
+})
+}
+
+pressButton.addEventListener("click", press, false);
+
+function getCSV(func) {
+        var file = "/assets/quran_english_v2.tsv";
+        var rawFile = new XMLHttpRequest();
+        var allText;
+
+        rawFile.open("GET", file, false);
+        rawFile.onreadystatechange = function () {
+            if(rawFile.readyState === 4)
+                if(rawFile.status === 200 || rawFile.status == 0)
+                    allText = rawFile.responseText;
+                    if(func!=undefined && typeof(func) == "function"){
+                        func(allText);
+                        var lines = allText.split("\n");
+                        var item = lines[Math.floor(Math.random() * lines.length)];
+                        var split = item.split('\t');
+                        document.getElementById("surah").src = split[5];
+                        document.getElementById("surah_name").innerHTML = split[1] + " : " + split[3];
+                        document.getElementById("chapter_ayah").innerHTML = split[2] + ":" + split[0];
+                        document.getElementById("surah_arabic").innerHTML = split[4];
+                        document.getElementById("surah_meaning").innerHTML = split[8];
+                     }
+        };
+        rawFile.send();
+}
+
+getCSV(function(contents){
+})
+
+    </script>
+
+</body>
+
+</html>
