@@ -21,7 +21,7 @@ After years of learning and asking questions to the so-called experts, they were
 Quran and the meaning myself. Read Surah 2 Verse 121, What this means is that the people who study the Quran are the true believers.
 
 Every Classical Arabic word has a English word to it depending on the context. One Arabic can have several words to it: pen, dog, etc.
-Every English can mean something different. This can be from a meaing in those years. And a different meaning in the 21st century.
-Example: Slavery back then and slavery that we tend to think of is completely different.  
+Every English can mean something different. This can be from a meaning in those years and a different meaning in the 21st century.
+Example: Slavery back then and slavery in modern world is different has a different definition in those two era's.  
 
 This is my interpretation and believe it on your own will.
