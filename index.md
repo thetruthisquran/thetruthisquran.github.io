@@ -40,3 +40,6 @@ Surah 10: Verse 99. <span style="color:red;">If it had been thy Lord's will, the
 - [What the Quran says about marriage](marriage-in-quran)
 - [What adultery means?](adultery)
 - [What does the Quran say about debt?](debt)
+
+### Quran Apps
+- [Quran Ayah App](quran-ayah-app)
