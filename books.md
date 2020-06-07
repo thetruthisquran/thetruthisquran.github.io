@@ -20,6 +20,8 @@ permalink: /books/
 5. Reward and Punishment
 6. Eternal life in the hereafter
 
+# Price is: **$9.00**
+
 <div align="center">
 {% include paypal-book.html %}
 </div>
