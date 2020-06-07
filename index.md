@@ -12,6 +12,10 @@ Surah 2: Verse 121. <span style="color:red;">Those to whom We have sent the Book
 are the ones that believe therein: Those who reject faith therein,- the loss is
 their own.</span>
 
+<div align="center">
+{% include paypal-donate.html %}
+</div>
+
 ![Quran with mosque](/assets/images/quran-with-mosque.png){:class="img-responsive" width="750" height="450"}
 
 Surah 2: Verse 256. <span style="color:red;">Let there be no compulsion in religion: Truth stands out clear from Error.</span>
