@@ -10,7 +10,6 @@ Archived written notes on the Quran that is stored as pdf documents.
 - [Five Daily Prayers](/documents/Five%20Daily%20Prayers.pdf)
 - [Gary Miller - Analysing Al-Quran Scientifically](/documents/Gary%20Miller-%20Analysing%20Al-Quran%20Scientifically.pdf)
 - [Muhammad _as_ A Warner to all nations](/documents/Muhammad%20_as_%20A%20Warner%20to%20all%20nations.pdf)
-- [Quran - Beginning to End of Creation](/documents/Quran-%20Beginning%20to%20End%20of%20Creation.pdf)
 - [Allah orders Prophet to follow Quran Only](/documents/ALLAH%20ORDERS%20PROPHET%20TO%20FOLLOW%20QURAN%20ONLY.pdf)
 - [Abrogation in the Quran](/documents/Abrogation-%20Quranic%20Explanation%20April%202013.pdf)
 - [Allah's Attributes](/documents/Allah's%20attributes.pdf)
