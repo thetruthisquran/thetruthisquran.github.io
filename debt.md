@@ -24,12 +24,14 @@ Every soul will be paid what it has earned in this world. Be scared of God the A
 <p><audio controls><source src="http://www.everyayah.org/data/Abdurrahmaan_As-Sudais_64kbps/002282.mp3" type="audio/mp3"></audio></p>
 <span style="color:red;">Say: "O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah. For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do."</span> (2:282)
 
+This is the longest verse in Holy Quran which makes it quite significant.
+
 1. Write down and record the transactions
 2. The person borrowing the money must write the transaction
 3. Should the person not able to write then a guardian can write it
 4. Get two men as witnesses, if there are not two men then one man and one woman
 5. The witness must not refuse when called on for evidence
-6. If is a transaction carried on the spot then it is fine if there is no writing
+6. If a transaction is carried on the spot then it is fine if there is no writing
 7. Always have witnesses whenever there is a business contract, no scribe or witness must suffer harm
 
 First priority is given to the lender if the borrower has died or passed away.
