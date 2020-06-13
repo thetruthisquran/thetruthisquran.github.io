@@ -17,7 +17,7 @@ title: The Truth is Quran
 email: ""
 description: Quran explained in detail
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.thetruthisquran.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.thetruthisquran.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetruthisquran
 #github_username:  "thetruthisquran"
 google_analytics: UA-133860614-1
