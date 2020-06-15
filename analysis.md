@@ -2,6 +2,7 @@
 layout: page
 title: Analysis
 permalink: /analysis/
+description: Quran Analysis with the English translation. Using different statistical methods and reporting techniques to analyse the Quran. 
 ---
 
 Quran statistics from English translation by Yusuf Ali.

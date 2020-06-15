@@ -3,6 +3,7 @@ layout: page
 title: Why sects are forbidden in Islam?
 permalink: /sects-are-forbidden-in-islam/
 exclude: true
+description: Why the Quran prohibits sects using verses as evidence. 
 ---
 
 <span style="color:red;">And hold fast, all together, by the rope which Allah [stretches out for

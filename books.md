@@ -2,6 +2,7 @@
 layout: page
 title: Books
 permalink: /books/
+description: A list of books based on the Quran with years of research.
 ---
 
 <h2 align="center">From the Beginning to the End of Creation, and into the Hereafter</h2>
@@ -25,3 +26,7 @@ permalink: /books/
 <div align="center">
 {% include paypal-book.html %}
 </div>
+
+<p>This is not a way to earn money off Islam but a way to support or donate money to maintain the website and content.
+This is a voluntary service but still needs funding to take the project to the next level. 
+</p>

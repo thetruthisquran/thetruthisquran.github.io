@@ -2,6 +2,7 @@
 layout: page
 title: Documents
 permalink: /documents/
+description: Beautiful documents based on Al-Quran from years of research. 
 ---
 
 Archived written notes on the Quran that is stored as pdf documents.

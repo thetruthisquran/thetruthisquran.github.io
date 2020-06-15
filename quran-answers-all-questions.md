@@ -3,6 +3,7 @@ layout: page
 title: Quran Answers All Questions
 permalink: /quran-answers-all-questions/
 exclude: true
+description: Verses in the Quran used as reference to show how the Quran answers all questions in a detailed manner. 
 ---
 
 Below are the verses used to provide evidence for the Quran claiming it answers all questions in a detailed manner.
