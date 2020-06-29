@@ -8,7 +8,7 @@ Every human being on earth should study the Quran on their own. This website is 
 I always give references using the Quran which is how it should it should be done.
 
 May you be guided and may you understand the Quran. The more you read or study in detail, the better you will be at understanding the holy Quran.
-Read Chapter 2, Verse 121.
+<span style="color:red;"> Read Chapter 2, Verse 121 </span>.
 
 <strong>1) I have a query/issue with a few of the articles. </strong>
 
@@ -19,7 +19,7 @@ Here is the link to form you can use. [Contact Form](https://docs.google.com/for
 <strong>2) Why did you start this website?</strong>
 
 After years of learning and asking questions to the so-called experts, they were not able to answer simple questions. I decided to study the
-Quran and the meaning myself. Read Chapter 2 Verse 121 again, What this means is that the people who study the Quran are the true believers.
+Quran and the meaning myself. <span style="color:red;">Read Chapter 2 Verse 121 again</span>, What this means is that the people who study the Quran are the true believers.
 
 <strong>3) The Arabic is quite special and difficult to translate, explain how you would approach this?</strong>
 
