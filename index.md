@@ -29,6 +29,10 @@ There is absolute truth in the Quran and any other book to learn about God will 
 
 Surah 10: Verse 99. <span style="color:red;">If it had been thy Lord's will, they would all have believed,</span>
 
+The Quran is a book that was released for all of mankind for the rest of time.
+The book from God does not contradict science. The book describes everything in detail, whatever
+is missing from the book is not important for lessons that God gives in the Quran.
+
 ### Quran Facts
 - One book that has never been changed over time
 - No contradictions and no errors
