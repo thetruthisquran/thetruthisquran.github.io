@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-description: Quran is the final book from God. Islam is derived from this book only and no other book must take a higher priority. The Quran explains all the information in detail.
+description: Read explanations in English for Holy Quran online. Academy coming soon.
 ---
 <h1 class="post-title" align="center">Quran Explained</h1>
 Answering the most critical questions from the Quran by studying and analysing it verse by verse.
@@ -11,6 +11,8 @@ Answering the most critical questions from the Quran by studying and analysing i
 Chapter 2: Verse 121. <span style="color:red;">Those to whom We have sent the Book study it as it should be studied: They
 are the ones that believe therein: Those who reject faith therein,- the loss is
 their own.</span>
+
+Quran is the final book from God. Islam is derived from this book only and no other book must take a higher priority.
 
 <div align="center">
 {% include paypal-donate.html %}

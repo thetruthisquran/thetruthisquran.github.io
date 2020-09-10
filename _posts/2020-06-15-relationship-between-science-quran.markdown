@@ -4,7 +4,7 @@ title:  "Relationship between the Quran and Science"
 permalink: relationship-quran-science
 date:   2020-06-15 17:51:08 +0200
 categories: quran-science
-description: Quran and science have a deep relationship, Many Quranic verses justify the significance of modern science and prove that Quran and science are interconnected and also evoked the attention of Muslim interests.
+description: Scientific evidence, proof and facts of the Quran backed up with scientific verses.
 ---
 Quran and science have a deep relationship, Many Quranic verses justify the significance of modern science and prove that Quran and science are interconnected and also evoked the attention of Muslim interests.
 
