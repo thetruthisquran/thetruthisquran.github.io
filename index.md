@@ -48,10 +48,8 @@ is missing from the book is not important. There is always a reason why God left
 - [Prayer Explained](prayer)
 - [Why sects are forbidden in Islam](sects-are-forbidden-in-islam)
 - [What the Quran says about marriage](marriage-in-quran)
-- [What adultery means?](adultery)
 - [What does the Quran say about debt?](debt)
 - [All about charity in the Quran](charity)
-- [Animals mentioned in the Quran](animals-in-the-quran)
 
 ### Quran Apps
 - [Quran Ayah App](quran-ayah-app)

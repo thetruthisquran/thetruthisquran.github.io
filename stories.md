@@ -2,7 +2,8 @@
 layout: page
 title: Stories
 permalink: /stories/
-description: Stories of the various messengers of the Quran. Coming Soon. 
+exclude: true
+description: Stories of the various messengers of the Quran. Coming Soon.
 ---
 
 The Quran has many beautiful stories for all of mankind to read. A few of them are below:
